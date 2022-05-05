@@ -14,3 +14,10 @@ YouTube Launch Tour
 
 *Please Note:*  It is expressly forbidden to sell, or solicit money, for CUINT or any custom themes created with it.
 
+Changelog
+---------
+ v0.7.1 - add PLUS3DOS support to file save, and read
+
+ v0.7.0 - fix bug #1 - Save As menu lets you save when no active theme open to save
+
+ v0.6.9 - first release
