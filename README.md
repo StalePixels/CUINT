@@ -16,8 +16,16 @@ YouTube Launch Tour
 
 Changelog
 ---------
- v0.7.1 - add PLUS3DOS support to file save, and read
+ v0.7.5 - bugs go brrrrr [#3](/../../issues/3), [#4](/../../issues/4) & [#5](/../../issues/5).
 
- v0.7.0 - fix bug #1 - Save As menu lets you save when no active theme open to save
+ v0.7.4 - "Click to Edit" on preview areas - workflow go brrrrr.
+
+ v0.7.3 - fix bug [#2](/../../issues/2) where clicking in attribute editor area when no files opened sometimes opened the attribute editor window
+
+ v0.7.2 - major rewrite of the preview code in preparation for future features (*internal release*)
+
+ v0.7.1 - fix bug [#1](/../../issues/1) - Save As menu lets you save when no active theme open to save (*internal release*)
+
+ v0.7.0 - add PLUS3DOS support to file save, and read
 
  v0.6.9 - first release
