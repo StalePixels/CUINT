@@ -16,7 +16,7 @@ YouTube Launch Tour
 
 Changelog
 ---------
- v0.7.5 - bugs go brrrrr [#3](/../../issues/3), [#4](/../../issues/4) & [#5](/../../issues/5).
+ v0.7.5 - bugs go brrrrr [#3](/../../issues/3) & [#4](/../../issues/4).
 
  v0.7.4 - "Click to Edit" on preview areas - workflow go brrrrr.
 
